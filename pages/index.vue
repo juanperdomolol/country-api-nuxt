@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Paises</h1>
+    <h1>Countries </h1>
     <b-row>
       <b-col>
         <b-nav-form class="mr-5">
